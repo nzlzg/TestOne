@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<FileSystem>
+  <DriverC>
+    <Dir Dirname="MSQCOS22">
+      <File FileName="Commond.tt"></File>
+    <Dir DirName="MSQD58">
+      <File FileName="Request.oci"></File>
+    </Dir>    
+  </Dir>
+   <File FileName="_desktop.ini"></File>
+   <File FileName="io.sys"></File>
+  </DriverC>
+</FileSystem>
